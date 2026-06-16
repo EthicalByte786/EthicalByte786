@@ -1,28 +1,61 @@
-# Hi there, I'm Muhammad Awais 👋
+# Muhammad Awais
 
-I am an **AI Automation Engineer & Full-Stack Developer** passionate about building intelligent systems, robust backends, and beautiful user interfaces. I specialize in taking complex problems and solving them with scalable automation and machine learning solutions.
+Full-Stack AI Builder focused on production apps, AI agents, automation, and self-hosted infrastructure.
 
-## 🚀 Featured Projects
+I build practical systems for real business workflows: dashboards, mobile apps, desktop tools, AI assistants, MCP integrations, automation workflows, and VPS-hosted infrastructure.
 
-### 🔹 [orvion-labs](https://github.com/MuhammadAwais-Automation/orvion-labs)
-**A professional-grade AI prompt management and durable test execution platform.**
-Built with **Next.js, Inngest, and Supabase**, it enables reliable, asynchronous execution of large AI test suites with real-time result streaming and atomic credit management.
+## Core Strengths
 
-### 🔹 [traffic-prediction-system](https://github.com/MuhammadAwais-Automation/traffic-prediction-system)
-**AI-powered Traffic Prediction System & Simulator.**
-A machine learning desktop application using **Python & CustomTkinter** that predicts traffic density via a `RandomForestRegressor`. It simulates vehicle speeds in real-time based on weather, day of the week, and hours.
+### AI Agents and Automation
 
-## 🛠️ Tech Stack & Tools
-- **Languages:** Python, TypeScript, JavaScript, HTML/CSS
-- **Frameworks/Libs:** Next.js, React, Flask, CustomTkinter
-- **AI/Data Engineering:** Scikit-Learn, Pandas, NumPy
-- **Backend & Integrations:** Supabase, Inngest, Custom Automation workflows
+- AI agent development with MCP integrations
+- Claude API and OpenAI API powered workflows
+- N8N and Make.com automation systems
+- GitHub CLI assisted development workflows
+- Agentic OS for local agent orchestration
 
-## 📈 GitHub Statistics
-<p align="left">
-  <img alt="Awais's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadAwais-Automation&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=c9d1d9&icon_color=1F6FEB&bg_color=0d1117" />
-</p>
+### DevOps and Self-Hosted Infrastructure
 
----
+- Oracle Cloud ARM VPS setup and management
+- Docker and Coolify deployments
+- Ollama and Open WebUI self-hosted LLM stack
+- WireGuard VPN, iptables, Nginx, SSL, and DuckDNS
+- Persistent agent hosting with tmux
 
-*If you need AI automation, intelligent systems, prediction models, or smart software, let's build something powerful together!*
+### Full-Stack Development
+
+- Flutter and Dart mobile apps
+- Next.js, React, and TypeScript web apps
+- Electron desktop apps
+- Supabase, PostgreSQL, RLS, Realtime, and Edge Functions
+- Node.js and Xano backend workflows
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [PowerNet Manager](https://github.com/MuhammadAwais-Automation/powernet-manager) | ISP operations dashboard for customers, billing, complaints, staff, and reports | Next.js, TypeScript, Supabase |
+| [PowerNet Staff App](https://github.com/MuhammadAwais-Automation/powernet-staff-app) | Flutter mobile app for ISP field teams, recovery agents, operators, and customers | Flutter, Dart, Supabase |
+| [Agentic OS](https://github.com/MuhammadAwais-Automation/agentic-os) | Local-first AI agent orchestration dashboard with MCP and session monitoring | Next.js, TypeScript, Express, SQLite |
+| [FlowDesk](https://github.com/MuhammadAwais-Automation/FlowDesk) | Local-first AI creator workstation with prompts, AI sessions, social tools, and account isolation | Electron, React, TypeScript |
+| [Orvion Labs](https://github.com/MuhammadAwais-Automation/orvion-labs) | AI prompt management and async test execution platform | Next.js, Inngest, Supabase |
+
+## Infrastructure Snapshot
+
+- Oracle Cloud Free Tier ARM VPS: 4 cores, 24GB RAM, Ubuntu 24
+- Coolify for self-hosted deployments
+- N8N automation server
+- Ollama and Open WebUI for local LLM workflows
+- Hermes Agent hosted on VPS with xAI Grok API integration
+- WireGuard VPN for secure remote access
+- MTProto proxy and additional Docker services
+
+## What I Like Building
+
+- Business dashboards that replace messy spreadsheets
+- Mobile apps for field teams and operations
+- AI assistants that can work with real tools
+- Local-first desktop productivity tools
+- Automation workflows that save repeated manual work
+
+Open to freelance projects, collaboration, and AI automation work.
