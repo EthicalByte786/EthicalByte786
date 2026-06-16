@@ -1,61 +1,50 @@
+<div align="center">
+
 # Muhammad Awais
 
-Full-Stack AI Builder focused on production apps, AI agents, automation, and self-hosted infrastructure.
+### Full-Stack AI Builder
 
-I build practical systems for real business workflows: dashboards, mobile apps, desktop tools, AI assistants, MCP integrations, automation workflows, and VPS-hosted infrastructure.
+Production apps, automation systems, and self-hosted AI infrastructure.
+
+![AI Agents](https://img.shields.io/badge/AI%20Agents-MCP%20%7C%20Claude%20%7C%20OpenAI-111111?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-Oracle%20Cloud%20%7C%20Docker%20%7C%20Coolify-111111?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Next.js%20%7C%20Flutter%20%7C%20Electron-111111?style=flat-square)
+
+</div>
+
+I build practical software for business operations: dashboards, mobile apps, desktop tools, AI assistants, MCP integrations, automation workflows, and VPS-hosted services.
 
 ## Core Strengths
 
-### AI Agents and Automation
-
-- AI agent development with MCP integrations
-- Claude API and OpenAI API powered workflows
-- N8N and Make.com automation systems
-- GitHub CLI assisted development workflows
-- Agentic OS for local agent orchestration
-
-### DevOps and Self-Hosted Infrastructure
-
-- Oracle Cloud ARM VPS setup and management
-- Docker and Coolify deployments
-- Ollama and Open WebUI self-hosted LLM stack
-- WireGuard VPN, iptables, Nginx, SSL, and DuckDNS
-- Persistent agent hosting with tmux
-
-### Full-Stack Development
-
-- Flutter and Dart mobile apps
-- Next.js, React, and TypeScript web apps
-- Electron desktop apps
-- Supabase, PostgreSQL, RLS, Realtime, and Edge Functions
-- Node.js and Xano backend workflows
-
-## Featured Projects
-
-| Project | Description | Stack |
+| AI Agents and Automation | DevOps and Self-Hosted Infra | Full-Stack Development |
 |---|---|---|
-| [PowerNet Manager](https://github.com/MuhammadAwais-Automation/powernet-manager) | ISP operations dashboard for customers, billing, complaints, staff, and reports | Next.js, TypeScript, Supabase |
-| [PowerNet Staff App](https://github.com/MuhammadAwais-Automation/powernet-staff-app) | Flutter mobile app for ISP field teams, recovery agents, operators, and customers | Flutter, Dart, Supabase |
-| [Agentic OS](https://github.com/MuhammadAwais-Automation/agentic-os) | Local-first AI agent orchestration dashboard with MCP and session monitoring | Next.js, TypeScript, Express, SQLite |
-| [FlowDesk](https://github.com/MuhammadAwais-Automation/FlowDesk) | Local-first AI creator workstation with prompts, AI sessions, social tools, and account isolation | Electron, React, TypeScript |
-| [Orvion Labs](https://github.com/MuhammadAwais-Automation/orvion-labs) | AI prompt management and async test execution platform | Next.js, Inngest, Supabase |
+| MCP integrations, Claude/OpenAI workflows, GitHub CLI assisted development, N8N and Make.com automations | Oracle Cloud ARM VPS, Docker, Coolify, Nginx, SSL, WireGuard, iptables, DuckDNS, tmux services | Next.js, React, TypeScript, Flutter, Electron, Supabase, PostgreSQL, Node.js, Xano |
+| Example: [Agentic OS](https://github.com/MuhammadAwais-Automation/agentic-os) | Example: Oracle Cloud AI hub stack | Example: [PowerNet Manager](https://github.com/MuhammadAwais-Automation/powernet-manager) |
+
+## Featured Systems
+
+| Project | What it is | What it proves |
+|---|---|---|
+| [PowerNet Manager](https://github.com/MuhammadAwais-Automation/powernet-manager) | ISP operations dashboard for customers, billing, complaints, staff, reports, and role-based workflows | Production business app architecture with Supabase, access control, and operational data flows |
+| [PowerNet Staff App](https://github.com/MuhammadAwais-Automation/powernet-staff-app) | Flutter companion app for ISP field teams, recovery agents, operators, and customers | Mobile workflows connected to real backend operations |
+| [Agentic OS](https://github.com/MuhammadAwais-Automation/agentic-os) | Local-first AI agent orchestration dashboard for sessions, MCP servers, approvals, memory, and runs | Agent infrastructure, local bridges, WebSockets, and developer automation |
+| [FlowDesk](https://github.com/MuhammadAwais-Automation/FlowDesk) | Local-first Electron workstation for AI sessions, prompts, accounts, and creator workflows | Desktop product engineering, isolated sessions, and local-first UX |
+| [Orvion Labs](https://github.com/MuhammadAwais-Automation/orvion-labs) | AI prompt management and regression testing platform | SaaS-style AI reliability workflows with async execution and realtime state |
 
 ## Infrastructure Snapshot
 
-- Oracle Cloud Free Tier ARM VPS: 4 cores, 24GB RAM, Ubuntu 24
-- Coolify for self-hosted deployments
-- N8N automation server
-- Ollama and Open WebUI for local LLM workflows
-- Hermes Agent hosted on VPS with xAI Grok API integration
-- WireGuard VPN for secure remote access
-- MTProto proxy and additional Docker services
+| Area | Details |
+|---|---|
+| VPS | Oracle Cloud Free Tier ARM64, 4 cores, 24GB RAM, Ubuntu 24 |
+| Platform | Coolify, Docker, Nginx reverse proxy, SSL, DuckDNS |
+| AI stack | Ollama, Open WebUI, Hermes Agent, xAI Grok proxy, MCP integrations |
+| Automation | N8N, Make.com, Claude/OpenAI APIs, GitHub CLI workflows |
+| Network | WireGuard VPN, iptables firewall, Oracle security lists, MTProto proxy |
 
-## What I Like Building
+## Builder Profile
 
-- Business dashboards that replace messy spreadsheets
-- Mobile apps for field teams and operations
-- AI assistants that can work with real tools
-- Local-first desktop productivity tools
-- Automation workflows that save repeated manual work
+- Self-taught solo developer with about 3 years of hands-on product building.
+- Comfortable across frontend, backend, mobile, desktop, infra, automation, and AI agents.
+- Focused on systems that replace manual workflows and make business operations easier to run.
 
 Open to freelance projects, collaboration, and AI automation work.
