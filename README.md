@@ -6,10 +6,6 @@
 
 Production apps, automation systems, and self-hosted AI infrastructure.
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-MCP%20%7C%20Claude%20%7C%20OpenAI-111111?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-Oracle%20Cloud%20%7C%20Docker%20%7C%20Coolify-111111?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Next.js%20%7C%20Flutter%20%7C%20Electron-111111?style=flat-square)
-
 </div>
 
 I build practical software for business operations: dashboards, mobile apps, desktop tools, AI assistants, MCP integrations, automation workflows, and VPS-hosted services.
@@ -20,6 +16,7 @@ I build practical software for business operations: dashboards, mobile apps, des
 |---|---|---|
 | MCP integrations, Claude/OpenAI workflows, GitHub CLI assisted development, N8N and Make.com automations | Oracle Cloud ARM VPS, Docker, Coolify, Nginx, SSL, WireGuard, iptables, DuckDNS, tmux services | Next.js, React, TypeScript, Flutter, Electron, Supabase, PostgreSQL, Node.js, Xano |
 | Example: [Agentic OS](https://github.com/MuhammadAwais-Automation/agentic-os) | Example: Oracle Cloud AI hub stack | Example: [PowerNet Manager](https://github.com/MuhammadAwais-Automation/powernet-manager) |
+| Agent orchestration, MCP servers, AI workflows | Self-hosted AI services, VPN, reverse proxy, containers | Dashboards, mobile apps, desktop tools, SaaS products |
 
 ## Featured Systems
 
